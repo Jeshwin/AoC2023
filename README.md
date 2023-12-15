@@ -12,7 +12,7 @@
 -   [x] [Day 4](https://github.com/Jeshwin/AoC2023/tree/master/Day%204)
 -   [x] [Day 5](https://github.com/Jeshwin/AoC2023/tree/master/Day%205)
 -   [x] [Day 6](https://github.com/Jeshwin/AoC2023/tree/master/Day%206)
--   [ ] [Day 7](https://github.com/Jeshwin/AoC2023/tree/master/Day%207)
+-   [x] [Day 7](https://github.com/Jeshwin/AoC2023/tree/master/Day%207)
 -   [ ] [Day 8](https://github.com/Jeshwin/AoC2023/tree/master/Day%208)
 -   [ ] [Day 9](https://github.com/Jeshwin/AoC2023/tree/master/Day%209)
 -   [ ] [Day 10](https://github.com/Jeshwin/AoC2023/tree/master/Day%2010)
